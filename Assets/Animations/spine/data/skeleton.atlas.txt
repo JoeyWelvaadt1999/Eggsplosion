@@ -1,0 +1,202 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Brutelles
+  rotate: false
+  xy: 397, 40
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Egg
+  rotate: false
+  xy: 2, 3
+  size: 95, 123
+  orig: 95, 123
+  offset: 0, 0
+  index: -1
+Green/Brutelles
+  rotate: false
+  xy: 468, 79
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Green/L Been Boven
+  rotate: false
+  xy: 624, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Green/Pelvis
+  rotate: false
+  xy: 159, 40
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Green/R Been Boven
+  rotate: true
+  xy: 772, 93
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Hoed
+  rotate: false
+  xy: 99, 79
+  size: 129, 47
+  orig: 129, 47
+  offset: 0, 0
+  index: -1
+Hoofd
+  rotate: false
+  xy: 230, 50
+  size: 94, 76
+  orig: 94, 76
+  offset: 0, 0
+  index: -1
+L Arm Boven
+  rotate: true
+  xy: 985, 102
+  size: 24, 35
+  orig: 24, 35
+  offset: 0, 0
+  index: -1
+L Arm Onder
+  rotate: false
+  xy: 449, 59
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+L Been Boven
+  rotate: false
+  xy: 661, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+L Been Onder
+  rotate: true
+  xy: 99, 7
+  size: 11, 46
+  orig: 11, 46
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: false
+  xy: 952, 97
+  size: 31, 29
+  orig: 31, 29
+  offset: 0, 0
+  index: -1
+L Voet
+  rotate: false
+  xy: 147, 2
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+Pelvis
+  rotate: false
+  xy: 326, 89
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+R Arm Boven
+  rotate: true
+  xy: 159, 14
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+R Arm Onder
+  rotate: true
+  xy: 464, 64
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+R Been Boven
+  rotate: true
+  xy: 817, 93
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: true
+  xy: 192, 11
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+Red/Brutelles
+  rotate: false
+  xy: 520, 79
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Red/L Been Boven
+  rotate: false
+  xy: 698, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Red/Pelvis
+  rotate: false
+  xy: 326, 50
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Red/R Been Boven
+  rotate: true
+  xy: 862, 93
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Red/Yellow/Brutelles
+  rotate: false
+  xy: 572, 79
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+Red/Yellow/L Been Boven
+  rotate: false
+  xy: 735, 84
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Red/Yellow/Pelvis
+  rotate: false
+  xy: 397, 89
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+Red/Yellow/R Been Boven
+  rotate: true
+  xy: 907, 93
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+Torso
+  rotate: false
+  xy: 99, 20
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
